@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [ { "model": "block/stone_bricks", "weight": 350   },
+			{ "model": "block/stonebrickvars/stonebrick_normal_0", "weight": 385    },
+			{ "model": "block/stonebrickvars/stonebrick_normal_1", "weight": 375    },
+			{ "model": "block/stonebrickvars/stonebrick_normal_2", "weight": 360    },
+ 			{ "model": "block/stonebrickvars/stonebrick_normal_3", "weight": 350    },
+			{ "model": "block/stonebrickvars/stonebrick_normal_4", "weight": 3    },
+			{ "model": "block/stonebrickvars/stonebrick_normal_5", "weight": 340    }, 
+			{ "model": "block/stonebrickvars/stonebrick_normal_6", "weight": 2   } ]
+    }
+}

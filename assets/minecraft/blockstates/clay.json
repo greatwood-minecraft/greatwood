@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/clay", "weight": 60  },
+			{ "model": "block/sandvars/clay_1", "weight": 40  },
+			{ "model": "block/sandvars/clay_2", "weight": 45  },
+			{ "model": "block/sandvars/clay_3", "weight": 35  },
+			{ "model": "block/sandvars/clay_4", "weight": 30  },
+			{ "model": "block/sandvars/clay_5", "weight": 20  }
+		]
+    }
+}

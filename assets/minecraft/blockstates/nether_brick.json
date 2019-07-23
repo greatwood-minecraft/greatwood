@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/nether_brick", "weight": 60   },
+            { "model": "block/nethervars/19", "weight": 55   },
+            { "model": "block/nethervars/20", "weight": 45   },
+            { "model": "block/nethervars/21", "weight": 40   },
+            { "model": "block/nethervars/22", "weight": 35   },
+            { "model": "block/nethervars/23", "weight": 3   },
+            { "model": "block/nethervars/24", "weight": 1   },
+            { "model": "block/nethervars/25", "weight": 30   }
+        ]
+    }
+}

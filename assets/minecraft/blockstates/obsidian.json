@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "":[
+            { "model": "block/obsidianvars/0", "weight": 60  },
+            { "model": "block/obsidianvars/1", "weight": 40  },
+            { "model": "block/obsidianvars/2", "weight": 45  },
+            { "model": "block/obsidianvars/3", "weight": 35  },
+            { "model": "block/obsidianvars/4", "weight": 30  },
+            { "model": "block/obsidianvars/5", "weight": 20  },
+            { "model": "block/obsidianvars/6", "weight": 25  }
+        ]
+    }
+}

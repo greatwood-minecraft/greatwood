@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [ { "model": "block/fern", "weight":50 },
+			{ "model": "block/vegetationvars/fern_1", "weight":30 },
+ 			{ "model": "block/vegetationvars/fern_2", "weight":30 },
+			{ "model": "block/vegetationvars/fern_3", "weight":5 },
+ 			{ "model": "block/vegetationvars/fern_4", "weight":20 },
+			{ "model": "block/vegetationvars/fern_5", "weight":3 },
+ 			{ "model": "block/vegetationvars/fern_6", "weight":15 } ]
+    }
+}

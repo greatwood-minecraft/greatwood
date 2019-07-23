@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_poppy" },
+            { "model": "block/flora/10p" },
+            { "model": "block/flora/11p"  },
+            { "model": "block/flora/12p"  },
+            { "model": "block/flora/13p"  },
+            { "model": "block/flora/14p"  },
+            { "model": "block/flora/15p"  },
+            { "model": "block/flora/16p"  },
+            { "model": "block/flora/17p"  },
+            { "model": "block/flora/18p"  },
+            { "model": "block/flora/19p"  }
+        ]
+    }
+}

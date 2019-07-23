@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_acacia_sapling" },
+            { "model": "block/saplingvars/16p"  },
+            { "model": "block/saplingvars/17p"  },
+            { "model": "block/saplingvars/18p"  }
+        ]
+    }
+}

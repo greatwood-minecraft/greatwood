@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/ironvars/1", "weight": 60  },
+            { "model": "block/ironvars/2", "weight": 40  },
+            { "model": "block/ironvars/3", "weight": 45  },
+            { "model": "block/ironvars/4", "weight": 35  },
+            { "model": "block/ironvars/5", "weight": 30  },
+            { "model": "block/ironvars/6", "weight": 20  }
+        ]
+    }
+}

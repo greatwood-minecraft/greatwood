@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_jungle_sapling" },
+            { "model": "block/saplingvars/12p"  },
+            { "model": "block/saplingvars/13p"  },
+            { "model": "block/saplingvars/14p"  },
+            { "model": "block/saplingvars/15p"  }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/end_stone", "weight": 45 },
+            { "model": "block/endvars/1", "weight": 40  },
+            { "model": "block/endvars/2", "weight": 45  },
+            { "model": "block/endvars/3", "weight": 35  },
+            { "model": "block/endvars/4", "weight": 30  },
+            { "model": "block/endvars/5", "weight": 20  },
+            { "model": "block/endvars/6", "weight": 25  }
+        ]
+    }
+}

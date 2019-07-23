@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "axis=y":[
+            { "model": "block/logvars/0"  },
+            { "model": "block/logvars/1"  },
+            { "model": "block/logvars/2"  },
+            { "model": "block/logvars/3"  },
+            { "model": "block/logvars/4"  },
+            { "model": "block/logvars/5"  },
+            { "model": "block/logvars/6"  }
+        ],
+        "axis=z":[
+            { "model": "block/logvars/0", "x": 90  },
+            { "model": "block/logvars/1", "x": 90  },
+            { "model": "block/logvars/2", "x": 90  },
+            { "model": "block/logvars/3", "x": 90  },
+            { "model": "block/logvars/4", "x": 90  },
+            { "model": "block/logvars/5", "x": 90  },
+            { "model": "block/logvars/6", "x": 90  }
+        ],
+        "axis=x":[
+            { "model": "block/logvars/0", "x": 90, "y": 90  },
+            { "model": "block/logvars/1", "x": 90, "y": 90  },
+            { "model": "block/logvars/2", "x": 90, "y": 90  },
+            { "model": "block/logvars/3", "x": 90, "y": 90  },
+            { "model": "block/logvars/4", "x": 90, "y": 90  },
+            { "model": "block/logvars/5", "x": 90, "y": 90  },
+            { "model": "block/logvars/6", "x": 90, "y": 90  }
+        ]
+    }
+}

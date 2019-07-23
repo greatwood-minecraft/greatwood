@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [ { "model": "block/dead_bush", "weight":30 },
+			{ "model": "block/vegetationvars/dead_bush_1", "weight":30 },
+			{ "model": "block/vegetationvars/dead_bush_2", "weight":20 },
+			{ "model": "block/vegetationvars/dead_bush_3", "weight":20 } ]
+    }
+}

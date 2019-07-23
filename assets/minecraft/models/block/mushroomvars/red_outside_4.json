@@ -1,0 +1,14 @@
+{
+    "textures": {
+        "texture": "block/mushrooms/17",
+        "particle": "block/mushrooms/17"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 0 ],
+            "faces": {
+                "north": { "texture": "#texture", "cullface":"north" }
+            }
+        }
+    ]
+}

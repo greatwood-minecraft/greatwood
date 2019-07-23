@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "":[
+            { "model": "block/ice" },
+            { "model": "block/snowvars/5" },
+            { "model": "block/snowvars/6" },
+            { "model": "block/snowvars/7" },
+            { "model": "block/snowvars/8" },
+            { "model": "block/snowvars/9" },
+            { "model": "block/snowvars/10" },
+            { "model": "block/snowvars/11" }
+        ]
+    }
+}

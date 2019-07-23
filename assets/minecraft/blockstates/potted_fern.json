@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_fern" },
+			{ "model": "block/vegetationvars/flower_pot_fern_1"},
+ 			{ "model": "block/vegetationvars/flower_pot_fern_2"},
+			{ "model": "block/vegetationvars/flower_pot_fern_3"},
+ 			{ "model": "block/vegetationvars/flower_pot_fern_4"},
+			{ "model": "block/vegetationvars/flower_pot_fern_5"},
+ 			{ "model": "block/vegetationvars/flower_pot_fern_6"}
+        ]
+    }
+}

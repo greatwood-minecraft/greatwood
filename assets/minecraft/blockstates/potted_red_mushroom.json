@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_red_mushroom" },
+            { "model": "block/mushroomvars/p1"  },
+            { "model": "block/mushroomvars/p2"  },
+            { "model": "block/mushroomvars/p3"  },
+            { "model": "block/mushroomvars/p4"  },
+            { "model": "block/mushroomvars/p5"  },
+            { "model": "block/mushroomvars/p6"  }
+        ]
+    }
+}

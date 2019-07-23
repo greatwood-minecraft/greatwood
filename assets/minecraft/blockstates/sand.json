@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/sandvars/0", "weight": 40 },
+            { "model": "block/sandvars/1", "weight": 25 },
+            { "model": "block/sandvars/2", "weight": 25 },
+            { "model": "block/sandvars/3", "weight": 4 },
+            { "model": "block/sandvars/4", "weight": 6 },
+            { "model": "block/sandvars/5", "weight": 5 }
+        ]
+    }
+}

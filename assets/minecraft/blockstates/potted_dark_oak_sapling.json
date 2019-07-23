@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_dark_oak_sapling" },
+            { "model": "block/saplingvars/19p"  },
+            { "model": "block/saplingvars/20p"  },
+            { "model": "block/saplingvars/21p"  }
+        ]
+    }
+}

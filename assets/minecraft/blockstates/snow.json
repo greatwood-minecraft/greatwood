@@ -1,0 +1,60 @@
+{
+    "variants": {
+        "layers=1": [
+			{ "model": "block/snowvars/snow_height2", "weight": 2300  },
+			{ "model": "block/snowvars/snow_height2_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_height2_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_height2_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_height2_4", "weight": 1  }
+		],
+        "layers=2": [
+			{ "model": "block/snowvars/snow_height4", "weight": 2300  },
+			{ "model": "block/snowvars/snow_height4_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_height4_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_height4_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_height4_4", "weight": 1  }
+		],
+        "layers=3": [
+			{ "model": "block/snowvars/snow_height6", "weight": 2300  },
+			{ "model": "block/snowvars/snow_height6_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_height6_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_height6_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_height6_4", "weight": 1  }
+		],
+        "layers=4": [
+			{ "model": "block/snowvars/snow_height8", "weight": 2300  },
+			{ "model": "block/snowvars/snow_height8_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_height8_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_height8_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_height8_4", "weight": 1  }
+		],
+        "layers=5": [
+			{ "model": "block/snowvars/snow_height10", "weight": 2300  },
+			{ "model": "block/snowvars/snow_height10_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_height10_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_height10_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_height10_4", "weight": 1  }
+		],
+        "layers=6": [
+			{ "model": "block/snowvars/snow_height12", "weight": 2300  },
+			{ "model": "block/snowvars/snow_height12_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_height12_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_height12_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_height12_4", "weight": 1  }
+		],
+        "layers=7": [
+			{ "model": "block/snowvars/snow_height14", "weight": 2300  },
+			{ "model": "block/snowvars/snow_height14_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_height14_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_height14_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_height14_4", "weight": 1  }
+		],
+        "layers=8": [
+			{ "model": "block/snowvars/snow", "weight": 2300  },
+			{ "model": "block/snowvars/snow_1", "weight": 2000  },
+			{ "model": "block/snowvars/snow_2", "weight": 1800  },
+			{ "model": "block/snowvars/snow_3", "weight": 300  },
+			{ "model": "block/snowvars/snow_4", "weight": 1  }
+		]
+    }
+}

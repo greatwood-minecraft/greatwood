@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "":[
+            { "model": "block/brown_mushroom" },
+            { "model": "block/mushroomvars/8"  },
+            { "model": "block/mushroomvars/9"  },
+            { "model": "block/mushroomvars/10"  },
+            { "model": "block/mushroomvars/11"  },
+            { "model": "block/mushroomvars/12"  },
+            { "model": "block/mushroomvars/13"  }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [ { "model": "block/cracked_stone_bricks", "weight": 3   },
+			{ "model": "block/stonebrickvars/stonebrick_cracked_7", "weight": 3    },
+			{ "model": "block/stonebrickvars/stonebrick_cracked_8", "weight": 55    },
+			{ "model": "block/stonebrickvars/stonebrick_cracked_9", "weight": 35    },
+ 			{ "model": "block/stonebrickvars/stonebrick_cracked_10", "weight": 5    },
+			{ "model": "block/stonebrickvars/stonebrick_cracked_11", "weight": 30    },
+			{ "model": "block/stonebrickvars/stonebrick_cracked_12", "weight": 35    }, 
+			{ "model": "block/stonebrickvars/stonebrick_cracked_13", "weight": 10  }, 
+			{ "model": "block/stonebrickvars/stonebrick_cracked_14", "weight": 6    }, 
+			{ "model": "block/stonebrickvars/stonebrick_cracked_15", "weight": 50   } ]
+    }
+}

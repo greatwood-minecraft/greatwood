@@ -1,0 +1,32 @@
+{
+    "variants": {
+                "": [
+            { "model": "block/cactus" },
+            { "model": "block/cactusvars/1a" },
+            { "model": "block/cactusvars/1b" },
+            { "model": "block/cactusvars/1c" },
+            { "model": "block/cactusvars/1d" },
+            { "model": "block/cactusvars/1e" },
+            { "model": "block/cactusvars/2a" },
+            { "model": "block/cactusvars/2b" },
+            { "model": "block/cactusvars/2c" },
+            { "model": "block/cactusvars/2d" },
+            { "model": "block/cactusvars/2e" },
+            { "model": "block/cactusvars/3a" },
+            { "model": "block/cactusvars/3b" },
+            { "model": "block/cactusvars/3c" },
+            { "model": "block/cactusvars/3d" },
+            { "model": "block/cactusvars/3e" },
+            { "model": "block/cactusvars/4a" },
+            { "model": "block/cactusvars/4b" },
+            { "model": "block/cactusvars/4c" },
+            { "model": "block/cactusvars/4d" },
+            { "model": "block/cactusvars/4e" },
+            { "model": "block/cactusvars/5a" },
+            { "model": "block/cactusvars/5b" },
+            { "model": "block/cactusvars/5c" },
+            { "model": "block/cactusvars/5d" },
+            { "model": "block/cactusvars/5e" }
+        ]
+    }
+}

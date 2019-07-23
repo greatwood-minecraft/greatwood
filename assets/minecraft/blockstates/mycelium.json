@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "snowy=false": [
+			{ "model": "block/mycelium", "weight": 45  },
+            { "model": "block/grassvars/13", "weight": 25  },
+            { "model": "block/grassvars/14", "weight": 15  },
+            { "model": "block/grassvars/15", "weight": 4  },
+            { "model": "block/grassvars/16", "weight": 6  },
+            { "model": "block/grassvars/17", "weight": 5  }
+        ],
+        "snowy=true": { "model": "block/grass_block_snow" }
+    }
+}

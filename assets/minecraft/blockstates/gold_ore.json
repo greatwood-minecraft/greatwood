@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/goldvars/1", "weight": 60  },
+            { "model": "block/goldvars/2", "weight": 40  },
+            { "model": "block/goldvars/3", "weight": 45  },
+            { "model": "block/goldvars/4", "weight": 35  },
+            { "model": "block/goldvars/5", "weight": 30  },
+            { "model": "block/goldvars/6", "weight": 20  }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/stonevars/0", "weight": 19 },
+            { "model": "block/stonevars/1", "weight": 14 },
+            { "model": "block/stonevars/2", "weight": 11 },
+            { "model": "block/stonevars/3", "weight": 11 },
+            { "model": "block/stonevars/4", "weight": 15 },
+            { "model": "block/stonevars/5", "weight": 11 },
+            { "model": "block/stonevars/6", "weight": 2 },
+            { "model": "block/stonevars/7", "weight": 15 },
+            { "model": "block/stonevars/8", "weight": 11 },
+            { "model": "block/stonevars/9", "weight": 12 },
+            { "model": "block/stonevars/10", "weight": 11 },
+            { "model": "block/stonevars/11", "weight": 4 },
+            { "model": "block/stonevars/12", "weight": 17 },
+            { "model": "block/stonevars/13", "weight": 17 },
+            { "model": "block/stonevars/14", "weight": 11 },
+            { "model": "block/stonevars/15", "weight": 11 },
+            { "model": "block/stonevars/16", "weight": 11 },
+            { "model": "block/stonevars/17", "weight": 9 }
+        ]
+    }
+}

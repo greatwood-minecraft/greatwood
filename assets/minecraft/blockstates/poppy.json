@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/poppy" },
+            { "model": "block/flora/10" },
+            { "model": "block/flora/11"  },
+            { "model": "block/flora/12"  },
+            { "model": "block/flora/13"  },
+            { "model": "block/flora/14"  },
+            { "model": "block/flora/15"  },
+            { "model": "block/flora/16"  },
+            { "model": "block/flora/17"  },
+            { "model": "block/flora/18"  },
+            { "model": "block/flora/19"  }
+        ]
+    }
+}

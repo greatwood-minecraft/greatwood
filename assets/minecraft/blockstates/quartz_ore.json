@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/quartz_ore", "weight": 25  },
+            { "model": "block/nethervars/12", "weight": 60  },
+            { "model": "block/nethervars/13", "weight": 40  },
+            { "model": "block/nethervars/14", "weight": 45  },
+            { "model": "block/nethervars/15", "weight": 35  },
+            { "model": "block/nethervars/16", "weight": 30  },
+            { "model": "block/nethervars/17", "weight": 20  },
+            { "model": "block/nethervars/18", "weight": 20  }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_spruce_sapling" },
+            { "model": "block/saplingvars/8p"  },
+            { "model": "block/saplingvars/9p"  },
+            { "model": "block/saplingvars/10p"  },
+            { "model": "block/saplingvars/11p"  }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/glowstone", "weight": 45 },
+            { "model": "block/lightvars/0", "weight": 40  },
+            { "model": "block/lightvars/1", "weight": 35  },
+            { "model": "block/lightvars/2", "weight": 30  },
+            { "model": "block/lightvars/3", "weight": 25  }
+        ]
+    }
+}

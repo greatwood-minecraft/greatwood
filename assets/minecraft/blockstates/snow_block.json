@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "":[
+            { "model": "block/snow_block", "weight": 1500   },
+            { "model": "block/snowvars/snow_0", "weight": 1000   },
+            { "model": "block/snowvars/snow_1", "weight": 800   },
+            { "model": "block/snowvars/snow_2", "weight": 500   },
+            { "model": "block/snowvars/snow_3", "weight": 300   }
+        ]
+    }
+}

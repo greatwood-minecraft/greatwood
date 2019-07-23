@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "stage=0": [ 
+				{ "model": "block/saplingvars/8" },
+				{ "model": "block/saplingvars/9" },
+				{ "model": "block/saplingvars/10" },
+				{ "model": "block/saplingvars/11" } ],
+        "stage=1": [
+				{ "model": "block/saplingvars/8" },
+				{ "model": "block/saplingvars/9" },
+				{ "model": "block/saplingvars/10" },
+				{ "model": "block/saplingvars/11" } ]
+    }
+}

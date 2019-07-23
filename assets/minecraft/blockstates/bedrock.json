@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/bedrockvars/0", "weight": 45 },
+            { "model": "block/bedrockvars/1", "weight": 40 },
+            { "model": "block/bedrockvars/2", "weight": 35 },
+            { "model": "block/bedrockvars/3", "weight": 30 },
+            { "model": "block/bedrockvars/4", "weight": 25 },
+            { "model": "block/bedrockvars/5", "weight": 20 },
+            { "model": "block/bedrockvars/6", "weight": 15 }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/dandelion" },
+            { "model": "block/flora/0"  },
+            { "model": "block/flora/1"  },
+            { "model": "block/flora/2"  },
+            { "model": "block/flora/3"  },
+            { "model": "block/flora/4"  },
+            { "model": "block/flora/5"  },
+            { "model": "block/flora/6"  },
+            { "model": "block/flora/7"  },
+            { "model": "block/flora/8"  },
+            { "model": "block/flora/9"  }
+        ]
+    }
+}

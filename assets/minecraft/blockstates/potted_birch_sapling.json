@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_birch_sapling" },
+            { "model": "block/saplingvars/4p"  },
+            { "model": "block/saplingvars/5p"  },
+            { "model": "block/saplingvars/6p"  },
+            { "model": "block/saplingvars/7p"  }
+        ]
+    }
+}

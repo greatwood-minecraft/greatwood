@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "axis=y":[
+            { "model": "block/spruce_log" },
+            { "model": "block/logvars/14"  },
+            { "model": "block/logvars/15"  },
+            { "model": "block/logvars/16"  },
+            { "model": "block/logvars/17"  },
+            { "model": "block/logvars/18"  },
+            { "model": "block/logvars/19"  },
+            { "model": "block/logvars/20"  }
+        ],
+        "axis=z":[
+            { "model": "block/spruce_log", "x": 90 },
+            { "model": "block/logvars/14", "x": 90  },
+            { "model": "block/logvars/15", "x": 90  },
+            { "model": "block/logvars/16", "x": 90  },
+            { "model": "block/logvars/17", "x": 90  },
+            { "model": "block/logvars/18", "x": 90  },
+            { "model": "block/logvars/19", "x": 90  },
+            { "model": "block/logvars/20", "x": 90  }
+        ],
+        "axis=x":[
+            { "model": "block/spruce_log", "x": 90, "y": 90 },
+            { "model": "block/logvars/14", "x": 90, "y": 90  },
+            { "model": "block/logvars/15", "x": 90, "y": 90  },
+            { "model": "block/logvars/16", "x": 90, "y": 90  },
+            { "model": "block/logvars/17", "x": 90, "y": 90  },
+            { "model": "block/logvars/18", "x": 90, "y": 90  },
+            { "model": "block/logvars/19", "x": 90, "y": 90  },
+            { "model": "block/logvars/20", "x": 90, "y": 90  }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "variants": {
+        "facing=north":  [
+            { "model": "block/ladder"  },
+            { "model": "block/laddervars/1"  },
+            { "model": "block/laddervars/2"  },
+            { "model": "block/laddervars/3"  },
+            { "model": "block/laddervars/4"  },
+            { "model": "block/laddervars/5"  },
+            { "model": "block/laddervars/6"  }
+        ],
+        "facing=east":   [
+            { "model": "block/ladder", "y": 90  },
+            { "model": "block/laddervars/1", "y": 90  },
+            { "model": "block/laddervars/2", "y": 90  },
+            { "model": "block/laddervars/3", "y": 90  },
+            { "model": "block/laddervars/4", "y": 90  },
+            { "model": "block/laddervars/5", "y": 90  },
+            { "model": "block/laddervars/6", "y": 90  }
+        ],
+        "facing=south":  [
+            { "model": "block/ladder", "y": 180  },
+            { "model": "block/laddervars/1", "y": 180  },
+            { "model": "block/laddervars/2", "y": 180  },
+            { "model": "block/laddervars/3", "y": 180  },
+            { "model": "block/laddervars/4", "y": 180  },
+            { "model": "block/laddervars/5", "y": 180  },
+            { "model": "block/laddervars/6", "y": 180  }
+        ],
+        "facing=west": [
+            { "model": "block/ladder", "y": 270  },
+            { "model": "block/laddervars/1", "y": 270  },
+            { "model": "block/laddervars/2", "y": 270  },
+            { "model": "block/laddervars/3", "y": 270  },
+            { "model": "block/laddervars/4", "y": 270  },
+            { "model": "block/laddervars/5", "y": 270  },
+            { "model": "block/laddervars/6", "y": 270  }
+        ]
+    }
+}

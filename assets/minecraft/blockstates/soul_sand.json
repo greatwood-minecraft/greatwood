@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/soul_sand", "weight": 45},
+            { "model": "block/nethervars/7", "weight": 40},
+            { "model": "block/nethervars/8", "weight": 45},
+            { "model": "block/nethervars/9", "weight": 35},
+            { "model": "block/nethervars/10", "weight": 30},
+            { "model": "block/nethervars/11", "weight": 30}
+        ]
+    }
+}

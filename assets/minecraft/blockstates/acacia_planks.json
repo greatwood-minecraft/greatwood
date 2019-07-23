@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "":[
+            { "model": "block/plankvars/10"  },
+            { "model": "block/plankvars/11"  },
+            { "model": "block/plankvars/12"  }
+        ]
+    }
+}

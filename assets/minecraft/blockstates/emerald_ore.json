@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/emeraldvars/1", "weight": 60  },
+            { "model": "block/emeraldvars/2", "weight": 40  },
+            { "model": "block/emeraldvars/3", "weight": 45  },
+            { "model": "block/emeraldvars/4", "weight": 35  },
+            { "model": "block/emeraldvars/5", "weight": 30  },
+            { "model": "block/emeraldvars/6", "weight": 20  }
+        ]
+    }
+}

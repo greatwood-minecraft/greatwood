@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "":[
+            { "model": "block/jungle_planks"  },
+            { "model": "block/plankvars/3"  },
+            { "model": "block/plankvars/4"  },
+            { "model": "block/plankvars/5"  }
+        ]
+    }
+}

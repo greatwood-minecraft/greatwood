@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [ { "model": "block/mossy_stone_bricks", "weight": 60   },
+			{ "model": "block/stonebrickvars/stonebrick_mossy_16", "weight": 60    },
+			{ "model": "block/stonebrickvars/stonebrick_mossy_17", "weight": 4    },
+			{ "model": "block/stonebrickvars/stonebrick_mossy_18", "weight": 20    },
+ 			{ "model": "block/stonebrickvars/stonebrick_mossy_19", "weight": 50    },
+			{ "model": "block/stonebrickvars/stonebrick_mossy_20", "weight": 3    },
+			{ "model": "block/stonebrickvars/stonebrick_mossy_21", "weight": 30    }, 
+			{ "model": "block/stonebrickvars/stonebrick_mossy_22", "weight": 6  } ]
+    }
+}

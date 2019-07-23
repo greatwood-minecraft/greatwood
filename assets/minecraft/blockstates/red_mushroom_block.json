@@ -1,0 +1,137 @@
+{
+    "multipart": [
+        {   "when": { "north": true },
+            "apply": [
+              { "model": "block/red_mushroom_block" },
+              { "model": "block/mushroomvars/red_outside_2" },
+              { "model": "block/mushroomvars/red_outside_3" },
+              { "model": "block/mushroomvars/red_outside_4" },
+              { "model": "block/mushroomvars/red_outside_5" },
+              { "model": "block/mushroomvars/red_outside_6" },
+              { "model": "block/mushroomvars/red_outside_7" }
+            ]
+        },
+        {   "when": { "east": true },
+            "apply": [
+              { "model": "block/red_mushroom_block", "y": 90, "uvlock": true },
+              { "model": "block/mushroomvars/red_outside_2", "y": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_3", "y": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_4", "y": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_5", "y": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_6", "y": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_7", "y": 90, "uvlock": true   }
+            ]
+        },
+        {   "when": { "south": true },
+            "apply": [
+              { "model": "block/red_mushroom_block", "y": 180, "uvlock": true },
+              { "model": "block/mushroomvars/red_outside_2", "y": 180, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_3", "y": 180, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_4", "y": 180, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_5", "y": 180, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_6", "y": 180, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_7", "y": 180, "uvlock": true   }
+            ]
+        },
+        {   "when": { "west": true },
+            "apply": [
+              { "model": "block/red_mushroom_block", "y": 270, "uvlock": true },
+              { "model": "block/mushroomvars/red_outside_2", "y": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_3", "y": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_4", "y": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_5", "y": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_6", "y": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_7", "y": 270, "uvlock": true   }
+            ]
+        },
+        {   "when": { "up": true },
+            "apply": [
+              { "model": "block/red_mushroom_block", "x": 270, "uvlock": true },
+              { "model": "block/mushroomvars/red_outside_2", "x": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_3", "x": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_4", "x": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_5", "x": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_6", "x": 270, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_7", "x": 270, "uvlock": true   }
+            ]
+        },
+        {   "when": { "down": true },
+            "apply": [
+              { "model": "block/red_mushroom_block", "x": 90, "uvlock": true },
+              { "model": "block/mushroomvars/red_outside_2", "x": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_3", "x": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_4", "x": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_5", "x": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_6", "x": 90, "uvlock": true   },
+              { "model": "block/mushroomvars/red_outside_7", "x": 90, "uvlock": true   }
+            ]
+        },
+        {   "when": { "north": false },
+            "apply": [
+              { "model": "block/mushroom_block_inside" },
+              { "model": "block/mushroomvars/mushroom_inside_2" },
+              { "model": "block/mushroomvars/mushroom_inside_3" },
+              { "model": "block/mushroomvars/mushroom_inside_4" },
+              { "model": "block/mushroomvars/mushroom_inside_5" },
+              { "model": "block/mushroomvars/mushroom_inside_6" },
+              { "model": "block/mushroomvars/mushroom_inside_7" }
+            ]
+        },
+        {   "when": { "east": false },
+            "apply": [
+              { "model": "block/mushroom_block_inside", "y": 90, "uvlock": false },
+              { "model": "block/mushroomvars/mushroom_inside_2", "y": 90, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_3", "y": 90, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_4", "y": 90, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_5", "y": 90, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_6", "y": 90, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_7", "y": 90, "uvlock": false   }
+            ]
+        },
+        {   "when": { "south": false },
+            "apply": [
+              { "model": "block/mushroom_block_inside", "y": 180, "uvlock": false },
+              { "model": "block/mushroomvars/mushroom_inside_2", "y": 180, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_3", "y": 180, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_4", "y": 180, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_5", "y": 180, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_6", "y": 180, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_7", "y": 180, "uvlock": false   }
+            ]
+        },
+        {   "when": { "west": false },
+            "apply": [
+              { "model": "block/mushroom_block_inside", "y": 270, "uvlock": false },
+              { "model": "block/mushroomvars/mushroom_inside_2", "y": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_3", "y": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_4", "y": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_5", "y": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_6", "y": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_7", "y": 270, "uvlock": false   }
+            ]
+        },
+        {   "when": { "up": false },
+            "apply": [
+              { "model": "block/mushroom_block_inside", "x": 270, "uvlock": false },
+              { "model": "block/mushroomvars/mushroom_inside_2", "x": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_3", "x": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_4", "x": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_5", "x": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_6", "x": 270, "uvlock": false   },
+              { "model": "block/mushroomvars/mushroom_inside_7", "x": 270, "uvlock": false   }
+            ]
+        },
+        {   "when": { "down": false },
+            "apply": [
+              { "model": "block/mushroom_block_inside", "x": 90, "uvlock": false },
+              { "model": "block/mushroomvars/mushroom_inside_2", "x": 90, "uvlock": false  },
+              { "model": "block/mushroomvars/mushroom_inside_3", "x": 90, "uvlock": false  },
+              { "model": "block/mushroomvars/mushroom_inside_4", "x": 90, "uvlock": false  },
+              { "model": "block/mushroomvars/mushroom_inside_5", "x": 90, "uvlock": false  },
+              { "model": "block/mushroomvars/mushroom_inside_6", "x": 90, "uvlock": false  },
+              { "model": "block/mushroomvars/mushroom_inside_7", "x": 90, "uvlock": false  }
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/potted_dandelion" },
+            { "model": "block/flora/0p"  },
+            { "model": "block/flora/1p"  },
+            { "model": "block/flora/2p"  },
+            { "model": "block/flora/3p"  },
+            { "model": "block/flora/4p"  },
+            { "model": "block/flora/5p"  },
+            { "model": "block/flora/6p"  },
+            { "model": "block/flora/7p"  },
+            { "model": "block/flora/8p"  },
+            { "model": "block/flora/9p"  }
+        ]
+    }
+}
